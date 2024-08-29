@@ -1,5 +1,7 @@
 # Asteroid Threat Classification
 
+![Asteroid Impact](/titleimg.jpg)
+
 ## Dataset
 
 This dataset is from Kaggle and can be found [here](https://www.kaggle.com/shrushtijoshi/asteroid-impacts).
